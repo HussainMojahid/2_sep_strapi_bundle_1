@@ -1,4 +1,4 @@
-image: hussainnv/strapi-test_1sep:6.0.0
+image: hussainnv/strapi-test_2sep:1.0.0
 dbms: postgresql
 deploymentBaseName: "strapi-hussain"
 ingressPath: "/entando-strapi-api"
